@@ -44,7 +44,8 @@ Label 4: enhancing tumor
 
 
 # Results
-(https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/blob/master/results1.png)
+
+![Results1](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/blob/master/results1.png)
 
 
 
