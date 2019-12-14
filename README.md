@@ -14,10 +14,11 @@ This repository contains Keras implementation of Deep CNNs models, where these m
 
 - Backend: Theano or Tensorflow
 
-# Data
+# BRATS Dataset
 
-You need to have an access to BRATS 2018 dataset, where it is available on the site 
-[BRATS](https://www.med.upenn.edu/sbia/brats2018/data.html) 
+We have used [BRATS](https://www.med.upenn.edu/sbia/brats2018/data.html) 2018 dataset of patient’s brain with high-grade (HGG) and low-grade (LGG). Each patient’s brain image comes with 4 MRI sequences (i.e. T1, T1c, T2, FLAIR) and the ground truth
+of 4 segmentation labels which are obtained manually by radiologists experts: Healthy tissue, Necrotic and
+Non-Enhancing tumor, Peritumoral Edema, Enhancing core.
 
 
 # Usage
