@@ -25,7 +25,8 @@ This repository contains Keras implementation of Deep CNNs models, where these m
 
 # Data
 
-You need to have an access to BRATS 2018 dataset, where it is available on the site [BRATS] (https://www.med.upenn.edu/sbia/brats2018/data.html)
+You need to have an access to BRATS 2018 dataset, where it is available on the site 
+[BRATS](https://www.med.upenn.edu/sbia/brats2018/data.html) 
 
 
 # Issues
