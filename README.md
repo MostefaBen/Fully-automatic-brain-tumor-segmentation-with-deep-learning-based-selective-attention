@@ -27,12 +27,12 @@ Non-Enhancing tumor, Peritumoral Edema and Enhancing core.
 
 -Each MRI volume have 4 segmentation labels:
 
-'''python
+```python
 Label 0: background
 Label 1: necrotic and non-enhancing tumor
 Label 2: edema 
 Label 4: enhancing tumor
-'''
+```
 
 # Usage
 
