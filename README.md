@@ -53,3 +53,7 @@ Illustration of segmentation results of patient's brain with Glioblastoma brain 
 # Issues
 
 If you encounter any issue or have a feedback, please don't hesitate to [raise an issue](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/issues/new).
+
+# Author
+
+This project has been developed by [Mostefa Ben naceur](https://fr.linkedin.com/in/mostefabennaceurphd)
