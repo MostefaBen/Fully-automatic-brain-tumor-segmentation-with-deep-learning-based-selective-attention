@@ -20,9 +20,17 @@ This repository contains Keras implementation of Deep CNNs models, where these m
 
 We have used [BRATS](https://www.med.upenn.edu/sbia/brats2018/data.html) 2018 dataset of patient’s brain with high-grade (HGG) and low-grade (LGG). Each patient’s brain image comes with 4 MRI sequences (i.e. T1, T1c, T2, FLAIR) and the ground truth
 of 4 segmentation labels which are obtained manually by radiologists experts: Healthy tissue, Necrotic and
-Non-Enhancing tumor, Peritumoral Edema, Enhancing core.
+Non-Enhancing tumor, Peritumoral Edema and Enhancing core.
 ![4 MRI sequences](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/blob/master/image_1.jpg)
 
+-Each MRI volume have 4 scanning images: T1, T1c, T2, FLAIR.
+-Each MRI volume have 4 segmentation labels:
+'''
+Label 0: background
+Label 1: necrotic and non-enhancing tumor
+Label 2: edema 
+Label 4: enhancing tumor
+'''
 
 # Usage
 
