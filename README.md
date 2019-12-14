@@ -23,6 +23,11 @@ This repository contains Keras implementation of Deep CNNs models, where these m
 
 - Backend: Theano or Tensorflow
 
+# Data
+
+You need to have an access to BRATS 2018 dataset, where it is available on the site [BRATS] (https://www.med.upenn.edu/sbia/brats2018/data.html)
+
+
 # Issues
 
 If you encounter any issue or have a feedback, please don't hesitate to [raise an issue](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/issues/new).
