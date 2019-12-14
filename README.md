@@ -24,8 +24,10 @@ Non-Enhancing tumor, Peritumoral Edema and Enhancing core.
 ![4 MRI sequences](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/blob/master/image_1.jpg)
 
 -Each MRI volume have 4 scanning images: T1, T1c, T2, FLAIR.
+
 -Each MRI volume have 4 segmentation labels:
-'''
+
+'''python
 Label 0: background
 Label 1: necrotic and non-enhancing tumor
 Label 2: edema 
