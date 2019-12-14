@@ -17,11 +17,11 @@ This repository contains Keras implementation of Deep CNNs models, where these m
 
 # Dependencies
 
-1 Python 3.6
+- Python 3.6
 
-2 Keras
+- Keras
 
-3 Backend: Theano or Tensorflow
+- Backend: Theano or Tensorflow
 
 # Issues
 
