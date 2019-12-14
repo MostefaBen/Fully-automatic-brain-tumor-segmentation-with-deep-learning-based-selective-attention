@@ -1,5 +1,5 @@
 # Fully automatic brain tumor segmentation with deep learning based selective attention using overlapping patches and multi-class weighted cross-entropy
-Keras implementation of the paper <b>Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy<b> by  Ben naceur et al (under-review).
+Keras implementation of the paper Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy by  Ben naceur et al (under-review).
 
 ![The model architecture](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/blob/master/image.png)
 
