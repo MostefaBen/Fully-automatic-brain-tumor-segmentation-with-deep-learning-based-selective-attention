@@ -42,6 +42,12 @@ Label 4: enhancing tumor
 
 3. Please note that in this paper, we developed our proposed CNNs models based on the technique of Patch-wise approach. So, the CNNs models takes as an input patches with size 64 x 64 x 4, where 4 represent the four MRI sequences (i.e. T1, T1c, T2, FLAIR)
 
+4. Prepare the training and validation datasets
+
+5. At this step you can start the training using  `training.py` 
+
+6. When you finish the training phase, save the model to use it later for prediction phase with `prediction.py` 
+
 
 # Results
 
