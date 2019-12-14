@@ -16,6 +16,12 @@ This repository contains Keras implementation of Deep CNNs models, where these m
 
 - Backend: Theano or Tensorflow
 
+- Numpy
+
+- SimpleITK
+
+- OpenCV
+
 # BRATS Dataset
 
 We have used [BRATS](https://www.med.upenn.edu/sbia/brats2018/data.html) 2018 dataset of patient’s brain with high-grade (HGG) and low-grade (LGG). Each patient’s brain image comes with 4 MRI sequences (i.e. T1, T1c, T2, FLAIR) and the ground truth
