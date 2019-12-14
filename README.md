@@ -8,7 +8,9 @@ This repository contains Keras implementation of Deep CNNs models, where these m
 
 # Dependencies
 
-- Python 3.6
+- Anaconda
+
+- Python 3.6 
 
 - Keras
 
