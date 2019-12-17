@@ -34,10 +34,10 @@ Non-Enhancing tumor, Peritumoral Edema and Enhancing core.
 - Each MRI sequence includes 4 segmentation labels:
 
 ```python
-Label 0: background
-Label 1: necrotic and non-enhancing tumor
-Label 2: edema 
-Label 4: enhancing tumor
+Label 0: Background
+Label 1: Necrotic and Non-Enhancing tumor
+Label 2: Edema 
+Label 4: Enhancing tumor
 ```
 
 # Usage
