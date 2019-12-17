@@ -4,7 +4,7 @@ Keras implementation of the paper <b>Fully automatic brain tumor segmentation wi
 ![The model architecture](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/blob/master/image.png)
 
 
-This repository contains Keras implementation of Deep CNNs models, where these models are designed specifically for the segmentation of brain tumors. The usage is described in the next section.
+This repository contains Keras implementation of Deep CNNs models, where these models are designed specifically for the segmentation of brain tumors. For more details, see the following sections.
 
 # Dependencies
 
