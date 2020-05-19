@@ -64,7 +64,7 @@ Illustration of segmentation results of patient's brain with Glioblastoma brain 
 # Citation
 
 Mostefa Ben naceur, Akil, M., Saouli, R., & Kachouri, R. (2020). Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy. Medical Image Analysis, 101692.
-[paper link]:(https://www.sciencedirect.com/science/article/pii/S1361841520300578?dgcid=author).
+![paper link](https://www.sciencedirect.com/science/article/pii/S1361841520300578?dgcid=author).
 
 # Issues
 
