@@ -1,5 +1,5 @@
 # Fully automatic brain tumor segmentation with deep learning based selective attention using overlapping patches and multi-class weighted cross-entropy
-Keras implementation of the paper <b>Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy</b> by  Ben naceur et al (under-review).
+Keras implementation of the paper <b>Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy</b> by  Ben naceur et al (Medical Image Analysis).
 
 ![The model architecture](https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention/blob/master/image.png)
 
@@ -61,6 +61,10 @@ Label 4: Enhancing tumor
 
 Illustration of segmentation results of patient's brain with Glioblastoma brain tumors. Each row represents segmentation results of a different patient's brain tumor from the axial view. From left to right: the first five x four matrix are High-Grade Gliomas, and the second five × four matrix are Low-Grade Gliomas. The first and six columns are MRI scans of different patients (we show Flair MRI modality only for simplicity), the second and the seventh column are the Ground truth segmentation that are created by the radiologists, the third and the eighth columns are the segmentation results of our CNNs architecture, the fourth and ninth column are the segmentation results of CNNs architecture + post-processing 1, the fifth and the tenth column are the segmentation results of CNNs architecture + post-processing 1 + post-processing 2. Colors indicate the tumor regions: Black: Healthy and background, Red: Necrotic and Non-Enhancing tumor, Green: Peritumoral Edema, Yellow: Enhancing tumor.
 
+# Citation
+
+Mostefa Ben naceur, Akil, M., Saouli, R., & Kachouri, R. (2020). Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy. Medical Image Analysis, 101692.
+[paper link]:(https://www.sciencedirect.com/science/article/pii/S1361841520300578?dgcid=author).
 
 # Issues
 
