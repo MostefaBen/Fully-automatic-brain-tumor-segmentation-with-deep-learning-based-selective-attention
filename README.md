@@ -72,4 +72,4 @@ If you encounter any issue or have a feedback, please don't hesitate to [raise a
 
 # Author
 
-This project has been developed by [Mostefa Ben naceur](https://fr.linkedin.com/in/mostefabennaceurphd)
+This project has been developed by [Mostefa Ben Naceur](https://fr.linkedin.com/in/mostefabennaceurphd)
