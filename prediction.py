@@ -1,6 +1,6 @@
 #=====================================================================================================================
-#Copyright 2019 Mostefa Ben naceur
-#@author: Mostefa Ben naceur
+#Copyright 2019 Mostefa Ben Naceur
+#@author: Mostefa Ben Naceur
 #(https://github.com/MostefaBen/Fully-automatic-brain-tumor-segmentation-with-deep-learning-based-selective-attention)
 #@email:bennaceurmostefa@gmail.com
 #@year:  2019
